@@ -1,0 +1,733 @@
+fileFormatVersion: 2
+guid: 68544e20d699d1248b5a2fd4d38f922b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Front_Group
+    100002: ladder
+    100004: leftdrum1
+    100006: light_frame
+    100008: Lightstuff
+    100010: Lightstuff1
+    100012: MiddlePart
+    100014: //RootNode
+    100016: nuts
+    100018: orange_light
+    100020: orange_light1
+    100022: orange_light2
+    100024: orange_light3
+    100026: OrangeLightGroup
+    100028: pCube15
+    100030: pCube16
+    100032: pCube17
+    100034: pCube18
+    100036: pCube19
+    100038: pCube20
+    100040: pCube21
+    100042: pCube22
+    100044: pCube23
+    100046: pCube24
+    100048: pCube4
+    100050: pCube4 1
+    100052: pCube8
+    100054: pCube9
+    100056: pCylinder2
+    100058: pCylinder2 1
+    100060: pCylinder2 2
+    100062: pCylinder2 3
+    100064: pCylinder2 4
+    100066: pCylinder2 5
+    100068: pCylinder2 6
+    100070: pCylinder38
+    100072: pCylinder38 1
+    100074: pCylinder45
+    100076: pCylinder46
+    100078: pCylinder73
+    100080: pipes
+    100082: polySurface1
+    100084: polySurface1 1
+    100086: polySurface1 2
+    100088: polySurface1 3
+    100090: polySurface1 4
+    100092: polySurface105
+    100094: polySurface106
+    100096: polySurface108
+    100098: polySurface3
+    100100: polySurface62
+    100102: polySurface63
+    100104: polySurface64
+    100106: polySurface78
+    100108: polySurface79
+    100110: polySurface86
+    100112: polySurface89
+    100114: polySurface90
+    100116: polySurface93
+    100118: polySurface96
+    100120: polySurface97
+    100122: polySurface98
+    100124: Railing
+    100126: rightdrum
+    100128: room
+    100130: rung_00
+    100132: rung_01
+    100134: rung_010
+    100136: rung_011
+    100138: rung_012
+    100140: rung_013
+    100142: rung_014
+    100144: rung_02
+    100146: rung_03
+    100148: rung_04
+    100150: rung_05
+    100152: rung_06
+    100154: rung_07
+    100156: rung_08
+    100158: rung_09
+    100160: Sides
+    100162: steel
+    100164: steel2
+    100166: structure
+    100168: tire01
+    100170: tire01 1
+    100172: tire01 2
+    100174: tire01 3
+    100176: tire01 4
+    100178: tire3:tire_rim:pCylinder2
+    100180: tire3:tire_rim:polySurface1
+    100182: tire3:tire_rim:tire01
+    100184: tire3:tire_rim:tire_group1
+    100186: tire3:tire_rim:tire_rim
+    100188: Tire_group
+    100190: tire_group
+    100192: tire_group 1
+    100194: Tire_group1
+    100196: tire_group1
+    100198: tire_group1 1
+    100200: tire_group2
+    100202: tire_rim
+    100204: tire_rim 1
+    100206: tire_rim 2
+    100208: tire_rim 3
+    100210: tire_rim 4
+    100212: Top_part01
+    100214: Truck_part02
+    100216: pCube25
+    100218: t01
+    100220: t02
+    100222: t03
+    100224: t04
+    100226: group1
+    100228: leftdrum2
+    100230: orange_light4
+    100232: orange_light5
+    100234: orange_light6
+    100236: orange_light7
+    100238: pCube26
+    100240: pCube27
+    100242: pCube29
+    100244: pCube30
+    100246: polySurface113
+    100248: polySurface115
+    100250: polySurface118
+    100252: polySurface121
+    100254: polySurface122
+    100256: polySurface131
+    100258: polySurface132
+    100260: polySurface139
+    100262: polySurface140
+    100264: polySurface147
+    100266: polySurface148
+    100268: polySurface155
+    100270: polySurface156
+    100272: polySurface158
+    100274: polySurface159
+    100276: polySurface160
+    100278: polySurface166
+    100280: polySurface167
+    100282: polySurface168
+    100284: polySurface169
+    100286: polySurface170
+    100288: polySurface175
+    100290: polySurface176
+    100292: polySurface177
+    100294: polySurface178
+    100296: polySurface179
+    100298: polySurface180
+    100300: polySurface181
+    100302: polySurface188
+    100304: polySurface189
+    100306: rightdrum2
+    400000: Front_Group
+    400002: ladder
+    400004: leftdrum1
+    400006: light_frame
+    400008: Lightstuff
+    400010: Lightstuff1
+    400012: MiddlePart
+    400014: //RootNode
+    400016: nuts
+    400018: orange_light
+    400020: orange_light1
+    400022: orange_light2
+    400024: orange_light3
+    400026: OrangeLightGroup
+    400028: pCube15
+    400030: pCube16
+    400032: pCube17
+    400034: pCube18
+    400036: pCube19
+    400038: pCube20
+    400040: pCube21
+    400042: pCube22
+    400044: pCube23
+    400046: pCube24
+    400048: pCube4
+    400050: pCube4 1
+    400052: pCube8
+    400054: pCube9
+    400056: pCylinder2
+    400058: pCylinder2 1
+    400060: pCylinder2 2
+    400062: pCylinder2 3
+    400064: pCylinder2 4
+    400066: pCylinder2 5
+    400068: pCylinder2 6
+    400070: pCylinder38
+    400072: pCylinder38 1
+    400074: pCylinder45
+    400076: pCylinder46
+    400078: pCylinder73
+    400080: pipes
+    400082: polySurface1
+    400084: polySurface1 1
+    400086: polySurface1 2
+    400088: polySurface1 3
+    400090: polySurface1 4
+    400092: polySurface105
+    400094: polySurface106
+    400096: polySurface108
+    400098: polySurface3
+    400100: polySurface62
+    400102: polySurface63
+    400104: polySurface64
+    400106: polySurface78
+    400108: polySurface79
+    400110: polySurface86
+    400112: polySurface89
+    400114: polySurface90
+    400116: polySurface93
+    400118: polySurface96
+    400120: polySurface97
+    400122: polySurface98
+    400124: Railing
+    400126: rightdrum
+    400128: room
+    400130: rung_00
+    400132: rung_01
+    400134: rung_010
+    400136: rung_011
+    400138: rung_012
+    400140: rung_013
+    400142: rung_014
+    400144: rung_02
+    400146: rung_03
+    400148: rung_04
+    400150: rung_05
+    400152: rung_06
+    400154: rung_07
+    400156: rung_08
+    400158: rung_09
+    400160: Sides
+    400162: steel
+    400164: steel2
+    400166: structure
+    400168: tire01
+    400170: tire01 1
+    400172: tire01 2
+    400174: tire01 3
+    400176: tire01 4
+    400178: tire3:tire_rim:pCylinder2
+    400180: tire3:tire_rim:polySurface1
+    400182: tire3:tire_rim:tire01
+    400184: tire3:tire_rim:tire_group1
+    400186: tire3:tire_rim:tire_rim
+    400188: Tire_group
+    400190: tire_group
+    400192: tire_group 1
+    400194: Tire_group1
+    400196: tire_group1
+    400198: tire_group1 1
+    400200: tire_group2
+    400202: tire_rim
+    400204: tire_rim 1
+    400206: tire_rim 2
+    400208: tire_rim 3
+    400210: tire_rim 4
+    400212: Top_part01
+    400214: Truck_part02
+    400216: pCube25
+    400218: t01
+    400220: t02
+    400222: t03
+    400224: t04
+    400226: group1
+    400228: leftdrum2
+    400230: orange_light4
+    400232: orange_light5
+    400234: orange_light6
+    400236: orange_light7
+    400238: pCube26
+    400240: pCube27
+    400242: pCube29
+    400244: pCube30
+    400246: polySurface113
+    400248: polySurface115
+    400250: polySurface118
+    400252: polySurface121
+    400254: polySurface122
+    400256: polySurface131
+    400258: polySurface132
+    400260: polySurface139
+    400262: polySurface140
+    400264: polySurface147
+    400266: polySurface148
+    400268: polySurface155
+    400270: polySurface156
+    400272: polySurface158
+    400274: polySurface159
+    400276: polySurface160
+    400278: polySurface166
+    400280: polySurface167
+    400282: polySurface168
+    400284: polySurface169
+    400286: polySurface170
+    400288: polySurface175
+    400290: polySurface176
+    400292: polySurface177
+    400294: polySurface178
+    400296: polySurface179
+    400298: polySurface180
+    400300: polySurface181
+    400302: polySurface188
+    400304: polySurface189
+    400306: rightdrum2
+    2300000: leftdrum1
+    2300002: light_frame
+    2300004: nuts
+    2300006: orange_light
+    2300008: orange_light1
+    2300010: orange_light2
+    2300012: orange_light3
+    2300014: pCube15
+    2300016: pCube16
+    2300018: pCube17
+    2300020: pCube18
+    2300022: pCube19
+    2300024: pCube20
+    2300026: pCube21
+    2300028: pCube22
+    2300030: pCube23
+    2300032: pCube24
+    2300034: pCube8
+    2300036: pCube9
+    2300038: pCylinder2
+    2300040: pCylinder2 1
+    2300042: pCylinder2 2
+    2300044: pCylinder2 3
+    2300046: pCylinder2 4
+    2300048: pCylinder2 5
+    2300050: pCylinder2 6
+    2300052: pCylinder38
+    2300054: pCylinder38 1
+    2300056: pCylinder45
+    2300058: pCylinder46
+    2300060: pCylinder73
+    2300062: pipes
+    2300064: polySurface1
+    2300066: polySurface1 1
+    2300068: polySurface1 2
+    2300070: polySurface1 3
+    2300072: polySurface1 4
+    2300074: polySurface105
+    2300076: polySurface106
+    2300078: polySurface108
+    2300080: polySurface3
+    2300082: polySurface62
+    2300084: polySurface63
+    2300086: polySurface64
+    2300088: polySurface78
+    2300090: polySurface79
+    2300092: polySurface90
+    2300094: polySurface93
+    2300096: polySurface96
+    2300098: polySurface97
+    2300100: polySurface98
+    2300102: rightdrum
+    2300104: room
+    2300106: rung_00
+    2300108: rung_01
+    2300110: rung_010
+    2300112: rung_011
+    2300114: rung_012
+    2300116: rung_013
+    2300118: rung_014
+    2300120: rung_02
+    2300122: rung_03
+    2300124: rung_04
+    2300126: rung_05
+    2300128: rung_06
+    2300130: rung_07
+    2300132: rung_08
+    2300134: rung_09
+    2300136: steel
+    2300138: steel2
+    2300140: structure
+    2300142: tire01
+    2300144: tire01 1
+    2300146: tire01 2
+    2300148: tire01 3
+    2300150: tire01 4
+    2300152: tire3:tire_rim:pCylinder2
+    2300154: tire3:tire_rim:polySurface1
+    2300156: tire3:tire_rim:tire01
+    2300158: tire3:tire_rim:tire_rim
+    2300160: tire_rim
+    2300162: tire_rim 1
+    2300164: tire_rim 2
+    2300166: tire_rim 3
+    2300168: tire_rim 4
+    2300170: pCube25
+    2300172: t01
+    2300174: t02
+    2300176: t03
+    2300178: t04
+    2300180: leftdrum2
+    2300182: orange_light4
+    2300184: orange_light5
+    2300186: orange_light6
+    2300188: orange_light7
+    2300190: pCube26
+    2300192: pCube29
+    2300194: pCube30
+    2300196: polySurface113
+    2300198: polySurface115
+    2300200: polySurface118
+    2300202: polySurface121
+    2300204: polySurface122
+    2300206: polySurface132
+    2300208: polySurface140
+    2300210: polySurface148
+    2300212: polySurface158
+    2300214: polySurface159
+    2300216: polySurface166
+    2300218: polySurface167
+    2300220: polySurface168
+    2300222: polySurface169
+    2300224: polySurface170
+    2300226: polySurface175
+    2300228: polySurface176
+    2300230: polySurface178
+    2300232: polySurface179
+    2300234: polySurface180
+    2300236: polySurface181
+    2300238: polySurface188
+    2300240: polySurface189
+    2300242: rightdrum2
+    3300000: leftdrum1
+    3300002: light_frame
+    3300004: nuts
+    3300006: orange_light
+    3300008: orange_light1
+    3300010: orange_light2
+    3300012: orange_light3
+    3300014: pCube15
+    3300016: pCube16
+    3300018: pCube17
+    3300020: pCube18
+    3300022: pCube19
+    3300024: pCube20
+    3300026: pCube21
+    3300028: pCube22
+    3300030: pCube23
+    3300032: pCube24
+    3300034: pCube8
+    3300036: pCube9
+    3300038: pCylinder2
+    3300040: pCylinder2 1
+    3300042: pCylinder2 2
+    3300044: pCylinder2 3
+    3300046: pCylinder2 4
+    3300048: pCylinder2 5
+    3300050: pCylinder2 6
+    3300052: pCylinder38
+    3300054: pCylinder38 1
+    3300056: pCylinder45
+    3300058: pCylinder46
+    3300060: pCylinder73
+    3300062: pipes
+    3300064: polySurface1
+    3300066: polySurface1 1
+    3300068: polySurface1 2
+    3300070: polySurface1 3
+    3300072: polySurface1 4
+    3300074: polySurface105
+    3300076: polySurface106
+    3300078: polySurface108
+    3300080: polySurface3
+    3300082: polySurface62
+    3300084: polySurface63
+    3300086: polySurface64
+    3300088: polySurface78
+    3300090: polySurface79
+    3300092: polySurface90
+    3300094: polySurface93
+    3300096: polySurface96
+    3300098: polySurface97
+    3300100: polySurface98
+    3300102: rightdrum
+    3300104: room
+    3300106: rung_00
+    3300108: rung_01
+    3300110: rung_010
+    3300112: rung_011
+    3300114: rung_012
+    3300116: rung_013
+    3300118: rung_014
+    3300120: rung_02
+    3300122: rung_03
+    3300124: rung_04
+    3300126: rung_05
+    3300128: rung_06
+    3300130: rung_07
+    3300132: rung_08
+    3300134: rung_09
+    3300136: steel
+    3300138: steel2
+    3300140: structure
+    3300142: tire01
+    3300144: tire01 1
+    3300146: tire01 2
+    3300148: tire01 3
+    3300150: tire01 4
+    3300152: tire3:tire_rim:pCylinder2
+    3300154: tire3:tire_rim:polySurface1
+    3300156: tire3:tire_rim:tire01
+    3300158: tire3:tire_rim:tire_rim
+    3300160: tire_rim
+    3300162: tire_rim 1
+    3300164: tire_rim 2
+    3300166: tire_rim 3
+    3300168: tire_rim 4
+    3300170: pCube25
+    3300172: t01
+    3300174: t02
+    3300176: t03
+    3300178: t04
+    3300180: leftdrum2
+    3300182: orange_light4
+    3300184: orange_light5
+    3300186: orange_light6
+    3300188: orange_light7
+    3300190: pCube26
+    3300192: pCube29
+    3300194: pCube30
+    3300196: polySurface113
+    3300198: polySurface115
+    3300200: polySurface118
+    3300202: polySurface121
+    3300204: polySurface122
+    3300206: polySurface132
+    3300208: polySurface140
+    3300210: polySurface148
+    3300212: polySurface158
+    3300214: polySurface159
+    3300216: polySurface166
+    3300218: polySurface167
+    3300220: polySurface168
+    3300222: polySurface169
+    3300224: polySurface170
+    3300226: polySurface175
+    3300228: polySurface176
+    3300230: polySurface178
+    3300232: polySurface179
+    3300234: polySurface180
+    3300236: polySurface181
+    3300238: polySurface188
+    3300240: polySurface189
+    3300242: rightdrum2
+    4300000: light_frame
+    4300002: polySurface79
+    4300004: rung_012
+    4300006: rung_011
+    4300008: rung_010
+    4300010: rung_09
+    4300012: rung_08
+    4300014: rung_07
+    4300016: rung_06
+    4300018: rung_05
+    4300020: rung_04
+    4300022: rung_03
+    4300024: rung_02
+    4300026: rung_01
+    4300028: rung_00
+    4300030: polySurface93
+    4300032: polySurface90
+    4300034: pCylinder46
+    4300036: pCylinder45
+    4300038: rung_013
+    4300040: rung_014
+    4300042: polySurface97
+    4300044: pCylinder38
+    4300046: pCylinder2
+    4300048: pCylinder38
+    4300050: pCylinder2
+    4300052: structure
+    4300054: pCube24
+    4300056: polySurface106
+    4300058: steel
+    4300060: steel2
+    4300062: polySurface105
+    4300064: pCube16
+    4300066: polySurface3
+    4300068: nuts
+    4300070: pipes
+    4300072: polySurface108
+    4300074: rightdrum
+    4300076: pCube18
+    4300078: leftdrum1
+    4300080: pCylinder73
+    4300082: pCube21
+    4300084: pCube22
+    4300086: pCube19
+    4300088: pCube8
+    4300090: pCube23
+    4300092: pCube9
+    4300094: tire3:tire_rim:tire_rim
+    4300096: tire3:tire_rim:pCylinder2
+    4300098: tire3:tire_rim:polySurface1
+    4300100: tire3:tire_rim:tire01
+    4300102: tire_rim
+    4300104: pCylinder2
+    4300106: polySurface1
+    4300108: tire01
+    4300110: tire_rim
+    4300112: pCylinder2
+    4300114: polySurface1
+    4300116: tire01
+    4300118: tire_rim
+    4300120: pCylinder2
+    4300122: polySurface1
+    4300124: tire01
+    4300126: tire_rim
+    4300128: pCylinder2
+    4300130: polySurface1
+    4300132: tire01
+    4300134: tire_rim
+    4300136: pCylinder2
+    4300138: polySurface1
+    4300140: tire01
+    4300142: room
+    4300144: polySurface63
+    4300146: polySurface64
+    4300148: polySurface62
+    4300150: polySurface96
+    4300152: polySurface78
+    4300154: polySurface98
+    4300156: pCube20
+    4300158: orange_light
+    4300160: orange_light1
+    4300162: orange_light2
+    4300164: orange_light3
+    4300166: pCube15
+    4300168: pCube17
+    4300170: pCube25
+    4300172: t02
+    4300174: t01
+    4300176: t03
+    4300178: t04
+    4300180: leftdrum2
+    4300182: rightdrum2
+    4300184: polySurface122
+    4300186: polySurface179
+    4300188: polySurface180
+    4300190: polySurface181
+    4300192: polySurface178
+    4300194: polySurface176
+    4300196: polySurface170
+    4300198: polySurface169
+    4300200: polySurface188
+    4300202: polySurface148
+    4300204: polySurface140
+    4300206: polySurface132
+    4300208: polySurface158
+    4300210: polySurface159
+    4300212: polySurface166
+    4300214: polySurface167
+    4300216: polySurface168
+    4300218: polySurface175
+    4300220: polySurface189
+    4300222: orange_light4
+    4300224: orange_light5
+    4300226: orange_light6
+    4300228: orange_light7
+    4300230: pCube26
+    4300232: polySurface115
+    4300234: polySurface118
+    4300236: polySurface113
+    4300238: polySurface121
+    4300240: pCube29
+    4300242: pCube30
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
